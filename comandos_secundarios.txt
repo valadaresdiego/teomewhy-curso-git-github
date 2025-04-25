@@ -1,1 +1,3 @@
 esse arquivo contem comandos secundários de git
+
+segunda linha
