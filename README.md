@@ -7,6 +7,9 @@ Usaremos GitFlow com VS Code ao final do Curso.
 Feito via Teo Me Why no youtube.
 Teste para visualizar alterações
 
+Testando Git Flow com padrões de Branch e commit
+
+
 ## Fluxo de trabalho Git local
 
 1. git checkout -b
