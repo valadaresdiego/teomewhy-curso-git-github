@@ -5,7 +5,7 @@ Um curso para iniciantes aprenderem a versionar códigos.
 Usaremos GitFlow com VS Code ao final do Curso.
 
 Feito via Teo Me Why no youtube.
-
+Teste para visualizar alterações
 
 ## Fluxo de trabalho Git local
 
